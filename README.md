@@ -21,7 +21,7 @@ Snake Game
 ## 📺 Wireframes
 
 <p align="center">
-  <img alt="Wireframe 01" src="assets/wireframe-01.png" width="80%">
+  <img alt="Wireframe 01" src="assets/Wireframe-01.png" width="80%">
   <br><br>
   <img alt="Wireframe 02" src="assets/wireframe-02.png" width="80%">
 </p>
